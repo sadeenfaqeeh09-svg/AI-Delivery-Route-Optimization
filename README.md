@@ -61,3 +61,32 @@ Two optimization approaches are implemented and compared:
 Make sure you have the required libraries installed:
 pip install matplotlib
 python FinalV.py
+
+---
+
+## 📈 Output:
+Optimized delivery routes
+Total distance traveled
+Visualization of routes (graph)
+Comparison between algorithms performance
+
+----
+
+## 📁 Project Structure
+AI-Delivery-Route-Optimization/
+├── FinalV.py
+├── 1221669_JulnarNaalAssi_SadeenFaqeeh_1222177_P1.pdf
+└── README.md
+
+---
+
+## 🖥️ Environment
+Programming Language: Python
+Libraries: matplotlib, random, math
+OS: Linux / Windows
+
+---
+
+## 👩‍💻 Authors
+Sadeen Faqeeh
+Julnar Naal Assi
