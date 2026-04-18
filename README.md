@@ -74,9 +74,9 @@ Comparison between algorithms performance
 
 ## 📁 Project Structure
 AI-Delivery-Route-Optimization/
-├── FinalV.py
-├── 1221669_JulnarNaalAssi_SadeenFaqeeh_1222177_P1.pdf
-└── README.md
+├─ ─ FinalV.py
+├─ ─ 1221669_JulnarNaalAssi_SadeenFaqeeh_1222177_P1.pdf
+└─ ─ README.md
 
 ---
 
