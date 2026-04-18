@@ -88,5 +88,5 @@ AI-Delivery-Route-Optimization/
 ---
 
 ## 👩‍💻 Authors
-Sadeen Faqeeh
-Julnar Naal Assi
+* Sadeen J. Faqeeh
+* Julnar Assi
