@@ -81,9 +81,9 @@ AI-Delivery-Route-Optimization/
 ---
 
 ## 🖥️ Environment
-Programming Language: Python
-Libraries: matplotlib, random, math
-OS: Linux / Windows
+* Programming Language: Python
+* Libraries: matplotlib, random, math
+* OS: Linux / Windows
 
 ---
 
